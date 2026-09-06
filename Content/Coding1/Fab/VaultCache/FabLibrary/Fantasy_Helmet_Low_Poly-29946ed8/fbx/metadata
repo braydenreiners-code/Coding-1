@@ -1,0 +1,117 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>A Low Poly Stylized Helmet Modelled and Texture Painted in Blender Free</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/b07ea164-53c2-4038-ad74-af7b0f1ad2c0/107431f7-3ada-47ac-a349-683f096221f7.jpeg",
+		"publishedAt": "2024-11-12T01:43:12.263939Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/27d65cb4-07e7-4375-b3d6-1f2151ec66b3/eb9d5c2a-089e-4e4c-8dc1-bd75a9c3d1ec.jpeg",
+		"title": "Fantasy Helmet Low Poly",
+		"uid": "29946ed8-bbd0-47b5-bacd-380f586c918b",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-6aantdvfcn5gkw6uqspmlbpxcq6hbf/backgroundImage/blob-1920x540-3d8e64c47ee7ebac6eaa6481af4eb28c.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-6aantdvfcn5gkw6uqspmlbpxcq6hbf/profileImage/blob-500x500-52d64ff2ffe5d5bce83ac3be8f71298f.jpg",
+			"sellerName": "Badbanshee",
+			"uid": "81c0ea28-5933-430d-ab43-6e77fd38efef"
+		},
+		"tags": [
+			{
+				"name": "Fantasy",
+				"slug": "fantasy",
+				"uid": "5c48e966-39f9-4b98-9803-78335e942570"
+			},
+			{
+				"name": "Medieval",
+				"slug": "medieval",
+				"uid": "8869d28f-20ec-4f2e-9e92-d505e24c701d"
+			},
+			{
+				"name": "Helmet",
+				"slug": "helmet",
+				"uid": "8bd1bfe2-699c-486e-9b32-1080586a345a"
+			},
+			{
+				"name": "Crusader",
+				"slug": "crusader",
+				"uid": "b13a990a-674f-4860-921f-b95bf3df7c2f"
+			},
+			{
+				"name": "Stylized",
+				"slug": "stylized",
+				"uid": "b584e222-c5bf-43b3-b9ed-f937eaf169c1"
+			},
+			{
+				"name": "Armor",
+				"slug": "armor",
+				"uid": "c2049227-0e21-4263-b9d0-4f73d817ccd5"
+			},
+			{
+				"name": "Handpainted",
+				"slug": "handpainted",
+				"uid": "e99f222e-afc4-4780-899c-3fd3f1048c86"
+			}
+		],
+		"category":
+		{
+			"name": "Characters & Creatures",
+			"path": "characters-creatures",
+			"slug": "characters-creatures",
+			"uid": "358f4f32-1ca9-42ec-9be6-24303e41b412"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "3d745e2a-20a9-49d4-b664-6b009827cf89",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "bbcfb426-820d-4076-a9a2-d9cbb26b1162",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "3d745e2a-20a9-49d4-b664-6b009827cf89",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
